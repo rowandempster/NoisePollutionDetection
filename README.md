@@ -1,6 +1,8 @@
 # NoisePollutionDetection
 Attempt to collect and classify noises collected using multiple sources and visualize the heat map. 
 
+See visualizations here: https://devpost.com/software/city-vibes
+
 
 ### Idea:
 * Track noise pollution for a city
